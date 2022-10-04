@@ -2,4 +2,4 @@
 
 [About](https://degular.github.io/)
 
-[contract] (degular.github.io/contract.html)
+[contract](degular.github.io/contract.html)
